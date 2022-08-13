@@ -5,10 +5,11 @@
         <img src="~assets/logo_2022-08-13/logo.png" class="logo" v-if="logo" />
       </div>
 
-      <div class="col-12">
+      <div class="col-12 q-ml-lg">
         <div
           class="text-white text-h6 text-center q-mb-lg"
           style="margin-left: -29px"
+          v-if="!logo"
         >
           Search
         </div>
