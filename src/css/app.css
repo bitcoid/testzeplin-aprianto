@@ -1,0 +1,176 @@
+/* app global css */
+.bg {
+  padding: 256px 30px 26px;
+  background-image: linear-gradient(153deg, #712bda, #a45deb 100%);
+}
+
+.bg_content {
+  width: 340px;
+  height: 680px;
+}
+
+.bg-Result {
+  padding: 0 0 28px;
+  background-color: #f8fafc;
+}
+
+.Result {
+  width: 340px;
+  height: 790px;
+}
+
+.bar {
+  min-width: 340px;
+  height: 60px;
+  margin: 0 0 39px;
+  padding: 18px 15px 22.2px;
+  box-shadow: 0 0 6px 0 rgba(148, 77, 230, 0.75);
+  background-image: linear-gradient(100deg, #712bda, #a45deb 100%);
+  border-bottom-left-radius: 150px 10px;
+  border-bottom-right-radius: 150px 10px;
+}
+
+.logo {
+  width: 72.2px;
+  height: 83.8px;
+  margin: 0 103.8px 219.2px 104px;
+  object-fit: contain;
+}
+
+.q-placeholder {
+  color: var(--blue-gray-500);
+  font-size: 12px;
+}
+.b-input {
+  width: 280px;
+}
+
+.b-btn {
+  width: 280px;
+  height: 40px;
+  margin: 15px 0 0;
+  padding: 13px 116px 11px 117px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.Search {
+  width: 47px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  color: #fff;
+}
+
+.ngmusic {
+  height: 15.8px;
+  margin: 4px 104.8px 0 105px;
+  object-fit: contain;
+}
+
+.Search-result-for- {
+  width: 119px;
+  height: 16px;
+  margin: 3px 10px 2px 0;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  color: #334155;
+}
+
+.Json-Mraz {
+  width: 91px;
+  height: 21px;
+  margin: 0 0 0 10px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.64px;
+  color: #8c4ee1;
+}
+
+.card-Rectangle {
+  height: 123px;
+  margin: 16px 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  background-color: #fff;
+}
+
+.Pop {
+  width: 19px;
+  height: 11px;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.36px;
+  color: #fff;
+}
+
+.span {
+  width: 19px;
+  height: 14px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.43px;
+  color: #f5b014;
+}
+
+.currency-dollar {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+
+.Load-More {
+  width: 62px;
+  height: 14px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.43px;
+  color: var(--blue-gray-500);
+}
+
+.b-btnMore {
+  width: 120px;
+  height: 34px;
+  margin: 20px 110px 0;
+  padding: 10px 29px;
+  border-radius: 17px;
+  background-color: #e2e8f0;
+}
+
+.imground {
+  margin-top: 5px;
+  border-radius: 15px;
+  width: 90%;
+  height: 100px;
+}
+
+.bgwhite {
+  background-color: rgba(28, 28, 45, 0.9);
+}
